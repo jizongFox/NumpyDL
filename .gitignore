@@ -107,3 +107,5 @@ ENV/
 # Rope project settings
 .ropeproject
 
+/npdl.egg-info/
+/.mypy_cache/
